@@ -13,7 +13,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Endpoint do WMS
-const WMS_ENDPOINT = 'http://webcorpem.no-ip.info:37560/scripts/mh.dll/wc';
+const WMS_ENDPOINT = 'http://webcorpem.no-ip.info:800/scripts/mh.dll/wc';
 
 // Middleware
 app.use(cors()); // Suporte a CORS

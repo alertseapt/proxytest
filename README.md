@@ -27,7 +27,7 @@ Crie um arquivo `.env` com as seguintes variáveis:
 
 ```
 PORT=3000
-WMS_ENDPOINT=http://webcorpem.no-ip.info:37560/scripts/mh.dll/wc
+WMS_ENDPOINT=http://webcorpem.no-ip.info:800/scripts/mh.dll/wc
 ```
 
 ## Como Usar
