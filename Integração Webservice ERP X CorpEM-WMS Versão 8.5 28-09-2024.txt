@@ -5,7 +5,7 @@ Integração via Webservice
  Padrão: REST
  Método: POST
  Envio/recebimento de dados através de JSON
- Codiﬁcação Conteúdo: UTF8 decode e Unicode “unescaped”
+ Codiﬁcação Conteúdo: UTF8 decode e Unicode "unescaped"
 *PROGRAMAR E PROVEDOR DO ENDPOINT (WEBSERVICE) É SEMPRE O RECEBEDOR DO FLUXO DAS
 INFORMAÇÕES*
 
